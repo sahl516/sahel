@@ -117,4 +117,7 @@ home_team.get_team_stats()
 away_team.get_team_stats()
 
 predict_outcome(home_team, away_team)
-correct_score_prediction(home_team, away_team)
+correct_score_prediction(home_team, away_team) 
+equipe 1 france 
+equib 2 belguim
+demain
